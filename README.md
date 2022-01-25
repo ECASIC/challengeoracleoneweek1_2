@@ -12,7 +12,7 @@ Encriptador de texto con Javascript
 Solo letras minusculas
 No se permite acentuación de palabras 
 
-Reglas de desencriptación: 
+**Reglas de desencriptación:**
 "enter" es convertido para "e" 
 "imes" es convertido para "i"
 "ai" es convertido para "a"
