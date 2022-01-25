@@ -4,8 +4,8 @@
 Encriptador de texto con Javascript
 
 **Reglas de encriptación:** 
--"e" es convertido para "enter" 
--"i" es convertido para "imes"
+- "e" es convertido para "enter" 
+- "i" es convertido para "imes"
 -"a" es convertido para "ai"
 -"o" es convertido para "ober"
 -"u" es convertido para "ufat"
